@@ -14,7 +14,7 @@ A modern and responsive UI for customer segmentation built using React and Tailw
 - Tailwind CSS
 
 ## 📸 preview.png
-![Preview](./preview.png)
+![alt text](image-1.png)
 
 ## ⚡ Installation
 ```bash
